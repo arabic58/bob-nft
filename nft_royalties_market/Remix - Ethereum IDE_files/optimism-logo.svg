@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="229px" height="316px" viewBox="0 0 229 316" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 11</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-11">
+            <g id="Group" opacity="0.8" fill="#010101" fill-rule="nonzero">
+                <g id="Path">
+                    <path d="M72.0019531,194 C66.5437193,166.654689 66.5437193,146.988022 72.0019531,135 C77.460187,123.011978 91.5595359,112.045311 114.3,102.1 L57.3,0.9 L0.4,102.1 L72.0019531,194 Z"></path>
+                </g>
+            </g>
+            <g id="Group" opacity="0.45" transform="translate(0.000000, 1.000000)" fill="#010101" fill-rule="nonzero">
+                <g id="Path">
+                    <polygon points="171.2 0.9 114.3 102.1 0.4 102.1 57.3 0.9"></polygon>
+                </g>
+            </g>
+            <g id="Group" opacity="0.6" transform="translate(57.000000, 2.000000)" fill="#010101" fill-rule="nonzero">
+                <g id="Path">
+                    <polygon points="57.3 102.1 171.1 102.1 114.2 0.9 0.3 0.9"></polygon>
+                </g>
+            </g>
+            <g id="Group" opacity="0.8" transform="translate(114.000000, 135.000000)" fill="#010101" fill-rule="nonzero">
+                <g id="Path">
+                    <path d="M45.984375,-7.10542736e-14 C45.552617,21.2449133 42.5343879,36.2318925 36.9296875,44.9609375 C31.3249871,53.6899825 19.0150913,65.0030033 0,78.9 L56.7,180.1 L113.7,78.9 L45.984375,-7.10542736e-14 Z"></path>
+                </g>
+            </g>
+            <g id="Group" opacity="0.45" transform="translate(56.000000, 213.000000)" fill="#010101" fill-rule="nonzero">
+                <g id="Path">
+                    <polygon points="0.9 102.1 57.8 0.9 171.7 0.9 114.7 102.1"></polygon>
+                </g>
+            </g>
+            <g id="Group" opacity="0.6" transform="translate(0.000000, 212.000000)" fill="#010101" fill-rule="nonzero">
+                <g id="Path">
+                    <polygon points="113.8 0.9 0 0.9 56.9 102.1 170.7 102.1"></polygon>
+                </g>
+            </g>
+            <circle id="Oval" stroke="#343434" stroke-width="17" cx="116" cy="159" r="47.5"></circle>
+        </g>
+    </g>
+</svg>

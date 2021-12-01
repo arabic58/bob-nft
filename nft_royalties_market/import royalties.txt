@@ -1,0 +1,23 @@
+How to import a smart contract on github in a truffle contract?
+Asked 4 years, 1 month ago
+Active 3 years, 6 months ago
+Viewed 2k times
+
+6
+
+
+2
+I am using a smart contract that imports and uses the Oraclize contract at https://github.com/oraclize/ethereum-api/blob/master/oraclizeAPI_0.4.sol, if in the remix editor this can be done as follows:
+
+import "http://github.com/oraclize/ethereum-api/oraclizeAPI_0.4.sol";
+
+However if I do this with a contract I want to compile with Truffle there is this error:
+
+Could not find http://github.com/oraclize/ethereum-api/oraclizeAPI_0.4.sol from any sources;
+
+I have tried simply copying and pasting the entire Oraclize contract into my Truffle contract file, but this results in an "The contract code couldn't be stored, please check your gas amount" error regardless of how much gas I use (even the absolute maximum) - my guess is because the Oraclize contract is over 1000 lines of code long.
+
+How should this be done?
+https://github.com/provable-things/ethereum-api/blob/master/oraclizeAPI_0.4.sol
+
+0xc57eaa3bf2f44f07805874da0090306d2776dd2c
